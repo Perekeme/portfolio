@@ -1,0 +1,30 @@
+
+
+#welcome-section {
+    margin-top: 56px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    height: 300px;
+    background: #e3f2fd;
+}
+#welcome-section > h1,p {
+    margin:auto;
+}
+a {
+    text-decoration: none;
+}
+
+#navbar > div {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#project-header {
+   text-align: center;
+   text-decoration: underline ;
+}
+
+#projects {
+    margin-bottom: 5rem;
+}
