@@ -71,7 +71,7 @@ footer {
 
 /* media query codes here */
 
-@media (min-width: 50px) {
+@media (max-width: 480px) {
     .project-tile {
         width: 330px;
     }
