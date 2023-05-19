@@ -43,6 +43,10 @@ a {
     background: #45567d;
 }
 
+.project-tile > img{
+    height:435px;
+}
+
 #show-all{
     width: 400px;
     text-align: center;
