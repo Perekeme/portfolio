@@ -69,6 +69,7 @@ footer {
     color: #efc6c6;
 }
 
+/* media query codes here */
 
 @media (min-width: 50px) {
     .project-tile {
