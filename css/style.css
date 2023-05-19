@@ -69,12 +69,13 @@ footer {
     color: #efc6c6;
 }
 
-@media (max-width: 768px) {
+
+@media (min-width: 50px) {
     /* * {
         padding: 0 6px;
     } */
     .project-tile {
-        width: 260px;
+        width: 330px;
         /* margin:6px */
     }
 
