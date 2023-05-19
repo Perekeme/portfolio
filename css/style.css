@@ -71,14 +71,9 @@ footer {
 
 
 @media (min-width: 50px) {
-    /* * {
-        padding: 0 6px;
-    } */
     .project-tile {
         width: 330px;
-        /* margin:6px */
     }
-
     #show-all{
         width: 160px;
     }
