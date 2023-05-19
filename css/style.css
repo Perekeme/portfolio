@@ -1,3 +1,6 @@
+/* *{
+    padding: 5px;
+} */
 
 #welcome-section {
     margin-top: 56px;
@@ -65,3 +68,18 @@ footer {
     font-size: 1.5rem;
     color: #efc6c6;
 }
+
+@media (max-width: 768px) {
+    /* * {
+        padding: 0 6px;
+    } */
+    .project-tile {
+        width: 260px;
+        /* margin:6px */
+    }
+
+    #show-all{
+        width: 160px;
+    }
+
+    }
